@@ -47,7 +47,7 @@ const readMore = more.repeat(4001)
 global.owner = [
 ['6282261065144', 'FIN-MD', true],
 ]
-global.autoketik = true //status auto mengetik (auto typing)
+global.autoketik = false //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
 global.mods = []
