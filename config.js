@@ -45,18 +45,18 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727733', 'Amelia-MD', true],
+['6282261065144', 'FIN-MD', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727733'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
+global.nomorbot = '14847767409'
+global.nameown = 'Fin Ofc'
+global.nomorown = '6282261065144'
+global.nomorown1 = '6282261065144'
+global.nomorown2 = '6282261065144'
 global.nomorwa = '0'
 global.limitawal = {
 
@@ -69,34 +69,34 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'PutraModz' //ganti aja cuyyy
-global.namebot = '​Amelia-Md' //nama bot luh
-global.wm = '© Amelia-Md' //ganti aja
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'Amelia-Md ' //wm nyaa kocak
+global.author = 'finofc' //ganti aja cuyyy
+global.namebot = '​fin-Md' //nama bot luh
+global.wm = '© fin-Md' //ganti aja
+global.media = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg' //bebas
+global.wm = 'fin-Md ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa 
+global.wm2 = 'finofc' //ganti ajaa 
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //gantu aja
-global.stickpack = 'Amelia-Modz' //ganti 
-global.stickauth = `© Amelia-Md` //gantii 
+global.titlebot = `Fin-Md | Fin Ofc` //gantu aja
+global.stickpack = 'Fin-Ofc' //ganti 
+global.stickauth = `© Fin-Md` //gantii 
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= 'Fin Ofc' //ganti 
+global.nameown2 = 'Fin Ofc' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
+global.lynk = 'https://chat.whatsapp.com/BGyvKG4b0Qz2DnGXZTXuAX'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
+global.sig = 'https://instagram.com/al_vin.233' //ganti jadi ig mu
+global.sgh = 'https://github.com/Raya2399' //github
+global.sgc = 'https://chat.whatsapp.com/BGyvKG4b0Qz2DnGXZTXuAX' //group whatsapp
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
-global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya 
+global.snh = 'https://youtube.com/@alwanganzofficial7125' //yt klo punya 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = 'Chat Owner !!'
@@ -105,7 +105,7 @@ global.pgopay = 'Chat owner !!'
 global.plinkaja = '-' //link aja
 global.ppulsa = 'Chat owner !!'
 global.ppulsa2 = 'Chat owner !!'
-global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg'
+global.psaweria = 'https://saweria.com/Rimuru233'
 
 //bebas cuyyy yg atas mahh 
 
@@ -304,7 +304,7 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
+global.fotonya1 = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/e72de2cbba03f58eba7d1.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
